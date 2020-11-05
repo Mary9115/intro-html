@@ -38,6 +38,7 @@ h1 {
     background-position: 0 100%;
     transition: background-size 0.25s ease-in;        
 }
+<link rel="stylesheet" href="style.css">
 
 img {
     grid-row-start: 2;
