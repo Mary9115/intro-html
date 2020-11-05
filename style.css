@@ -38,7 +38,7 @@ h1 {
     background-position: 0 100%;
     transition: background-size 0.25s ease-in;        
 }
-<link rel="stylesheet" href="style.css">
+
 
 img {
     grid-row-start: 2;
@@ -49,6 +49,7 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 50px;
 }
+<link rel="stylesheet" href="style.css">
 
 ul {
     list-style-type: none;
